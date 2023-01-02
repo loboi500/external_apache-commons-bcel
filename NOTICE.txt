@@ -1,5 +1,3 @@
-Apache Commons BCEL
-Copyright 2004-2017 The Apache Software Foundation
-
-This product includes software developed at
-The Apache Software Foundation (http://www.apache.org/).
+version https://git-lfs.github.com/spec/v1
+oid sha256:921380b1fe40c3f6532820088a816bb97e9687fe35e77a98f7c9fe9f28be69bf
+size 173
